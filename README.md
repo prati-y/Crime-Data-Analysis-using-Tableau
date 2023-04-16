@@ -6,4 +6,4 @@ The goal of the crime data analysis using Tableau is to explore the dataset and 
 
 The analysis provides valuable information for citizens to better understand what is happening in their city, identify hot spots of crime and safety issues, and make informed decisions about where to live, travel, and socialize.
 
-We have used Ecel for data cleaning and the pdf document covers the Data Cleaning Steps, Data Visualization, Dashboard and Storytelling.
+We have used Excel for data cleaning and the pdf document covers the Data Cleaning Steps, Data Visualization, Dashboard and Storytelling.
